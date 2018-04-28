@@ -5,7 +5,7 @@ import xlrd
 import pandas as pd
 import math
 
-from matplotlib.pyplot import figure, legend, subplot, plot, hist, title, imshow, yticks, cm, xlabel, ylabel, show, grid, boxplot
+from matplotlib.pyplot import figure, axes, legend, subplot, plot, hist, title, imshow, yticks, cm, xlabel, ylabel, show, grid, boxplot
 from scipy.linalg import svd
 from scipy.io import loadmat
 import sklearn.linear_model as lm
