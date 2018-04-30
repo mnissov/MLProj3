@@ -1,0 +1,1 @@
+See "../toolbox_02450/Scripts/run_apriori.py" for the code running the Apriori algorithm

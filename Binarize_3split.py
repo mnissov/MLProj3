@@ -139,4 +139,4 @@ for i in range(y_len):
 df = pd.DataFrame.from_dict(dictionary, orient="index")
 
 
-np.savetxt(r'data.txt', df.values, fmt='%d', delimiter=",")
+np.savetxt(r'toolbox_02450/Data/data.txt', df.values, fmt='%d', delimiter=",")
